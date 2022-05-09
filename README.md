@@ -1,7 +1,7 @@
 # Additive Kirigami
 An additive framework for kirigami design 
 
-<img src = "https://github.com/garyptchoi/additive-kirigami/blob/main/additive_kirigami.jpg" width="600" height="425" />
+<img src = "https://github.com/garyptchoi/additive-kirigami/blob/main/additive-kirigami.jpg" width="600" height="425" />
 
 Reference:
 
