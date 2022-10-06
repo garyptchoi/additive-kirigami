@@ -15,14 +15,19 @@ https://math.mit.edu/~ptchoi
 
 Usage:
 
-Please run the following Jupyter notebooks.
-* `Demo_linear_inverse_design_angle.ipynb`: Linear inverse design of kirigami patterns with different deployment angle fields using the proposed additive framework
-* `Demo_linear_inverse_design_offset.ipynb`: Linear inverse design of kirigami patterns with different offset fields using the proposed additive framework
-* `Demo_nonlinear_optimization.ipynb`: Nonlinear inverse design of kirigami patterns using the proposed additive framework
+Please run the following Jupyter notebooks for different design demos. See the plots in the notebooks for the expected output. The expected run time for each demo is not more than a few seconds.
+* `Demo_linear_inverse_design_angle.ipynb`: Linear inverse design of kirigami patterns with different deployment angle fields using the proposed additive framework.
+* `Demo_linear_inverse_design_offset.ipynb`: Linear inverse design of kirigami patterns with different offset fields using the proposed additive framework.
+* `Demo_nonlinear_optimization.ipynb`: Nonlinear inverse design of kirigami patterns using the proposed additive framework.
 * `Demo_random_design.ipynb`: Generating compact reconfigurable and rigid-deployable random kirigami patterns using the proposed additive framework.
 
 Dataset:
 * Some sample patterns created using the proposed additive framework can be found in the `pattern` folder.
 
-Dependencies:
-* Python, Jupyter, numpy, scipy, matplotlib.
+System requirements:
+* Software dependencies and operating systems: Python 3, Jupyter, numpy, scipy, matplotlib.
+* Versions the software has been tested on: Jupyter Notebook 6.1.4 (with Python 3.8.5).
+* Any required non-standard hardware: None.
+
+Installation guide:
+* Please install Python and Jupyter Notebook, and then run the notebooks for different examples of design.
