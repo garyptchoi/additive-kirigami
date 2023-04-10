@@ -5,9 +5,9 @@ An additive framework for kirigami design
 
 If you use this code in your work, please cite the following paper:
 
-> L. H. Dudte, G. P. T. Choi, K. P. Becker, and L. Mahadevan, "[An additive framework for kirigami design](https://arxiv.org/abs/2207.01810)." Preprint, arXiv:2207.01810, 2022.
+> L. H. Dudte, G. P. T. Choi, K. P. Becker, and L. Mahadevan, "[An additive framework for kirigami](https://arxiv.org/abs/2207.01810)." Nature Computational Science, 2023.
 
-Copyright (c) 2022, Levi H. Dudte, Gary P. T. Choi, Kaitlyn P. Becker, L. Mahadevan
+Copyright (c) 2022-2023, Levi H. Dudte, Gary P. T. Choi, Kaitlyn P. Becker, L. Mahadevan
 
 https://math.mit.edu/~ptchoi
 
