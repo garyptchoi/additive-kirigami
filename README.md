@@ -7,9 +7,9 @@ If you use this code in your work, please cite the following paper:
 
 > L. H. Dudte, G. P. T. Choi, K. P. Becker, and L. Mahadevan, "[An additive framework for kirigami design](https://doi.org/10.1038/s43588-023-00448-9)." Nature Computational Science, 3, 443-454, 2023.
 
-Copyright (c) 2022-2023, Levi H. Dudte, Gary P. T. Choi, Kaitlyn P. Becker, L. Mahadevan
+Copyright (c) 2022-2024, Levi H. Dudte, Gary P. T. Choi, Kaitlyn P. Becker, L. Mahadevan
 
-https://math.mit.edu/~ptchoi
+https://www.math.cuhk.edu.hk/~ptchoi
 
 ===============================================================
 
